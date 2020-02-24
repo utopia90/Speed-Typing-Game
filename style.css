@@ -1,0 +1,48 @@
+.hide {
+    display: none;
+}
+
+h1 {
+    font-size: 80px;
+    font-weight: bolder;
+    color: rgba(95, 20, 39, 0.616);
+    margin-top: 200px;
+}
+
+body {
+    font-size: 25px;
+}
+
+button {
+    font-size: 40px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-right: 50px;
+    padding-left: 50px;
+    color: purple;
+    background-color: rgb(224, 224, 148);
+    border-radius: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+
+}
+
+html {
+    align-items: center;
+    text-align: center;
+    font-family: 'Rubik Mono One';
+background-image: url('https://www.xmple.com/wallpaper/blue-pink-gradient-linear-2560x1800-c2-ff69b4-87ceeb-a-15-f-14.svg');
+}
+
+input {
+    width: 500px;
+    height: 150px;
+}
+
+#sentencesDisplay{
+    font-family: sans-serif;
+}
+
+#info {
+    margin-top: -120px;
+}
